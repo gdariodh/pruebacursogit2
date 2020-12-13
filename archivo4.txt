@@ -2,5 +2,3 @@ linea 1
 linea 2
 tigre
 ballena
-gato
-perro
